@@ -1,0 +1,8 @@
+{
+  "name": "Haebaragi Works",
+  "description": "A premium, cinematic modern portfolio website for Haebaragi Works, featuring a golden-hour nature-inspired studio design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
